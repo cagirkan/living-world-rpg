@@ -13,7 +13,7 @@ Açık dünya, fantastik bir RPG projesi. Oyuncu farklı karakter sınıflarınd
 ### Kurulum
 1. Depoyu klonlayın:
    ```bash
-   git clone https://github.com/<kullanici>/living-world-rpg.git
+   git clone https://github.com/cagirkan/living-world-rpg.git
    ```
 2. Unity Hub’dan proje klasörünü seçerek açın.
 3. Unity Package Manager’dan gerekli paketleri yükleyin (`Cinemachine`, `Input System`, vb.).
